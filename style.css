@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body {
   display: flex;
+  font-size: 25px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
